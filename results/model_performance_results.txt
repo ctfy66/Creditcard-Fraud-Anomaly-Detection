@@ -1,0 +1,153 @@
+Model parameters:
+n_estimators = 100, contamination = 0.005, random_state = 42, max_features = 2, bootstrap = False
+--- Initial Model Results ---
+Classification Report:
+              precision    recall  f1-score   support
+
+         0.0       0.91      1.00      0.95    273871
+         1.0       0.40      0.02      0.04     26129
+
+    accuracy                           0.91    300000
+   macro avg       0.66      0.51      0.50    300000
+weighted avg       0.87      0.91      0.87    300000
+
+
+
+Model parameters:
+n_estimators = 100, contamination = 0.005, random_state = 42, max_features = 2, bootstrap = False
+--- Initial Model Results ---
+Classification Report:
+              precision    recall  f1-score   support
+
+         0.0       0.91      1.00      0.95    273871
+         1.0       0.40      0.02      0.04     26129
+
+    accuracy                           0.91    300000
+   macro avg       0.66      0.51      0.50    300000
+weighted avg       0.87      0.91      0.87    300000
+
+
+
+
+
+
+Model parameters:
+n_estimators = 50, contamination = 0.001, random_state = 42, max_features = 1, bootstrap = True
+--- Optimized Model Results ---
+Classification Report:
+              precision    recall  f1-score   support
+
+         0.0       0.91      1.00      0.95    273871
+         1.0       0.28      0.00      0.01     26129
+
+    accuracy                           0.91    300000
+   macro avg       0.60      0.50      0.48    300000
+weighted avg       0.86      0.91      0.87    300000
+
+
+
+Model parameters:
+n_estimators = 50, contamination = 0.001, random_state = 42, max_features = 2, bootstrap = False
+--- Initial Model Results ---
+Classification Report:
+              precision    recall  f1-score   support
+
+         0.0       0.91      1.00      0.95    273871
+         1.0       0.40      0.02      0.04     26129
+
+    accuracy                           0.91    300000
+   macro avg       0.66      0.51      0.50    300000
+weighted avg       0.87      0.91      0.87    300000
+
+
+
+Model parameters:
+n_estimators = 100, contamination = 0.005, random_state = 42, max_features = 2, bootstrap = False
+--- Initial Model Results ---
+Classification Report:
+              precision    recall  f1-score   support
+
+         0.0       0.92      0.99      0.95    273871
+         1.0       0.34      0.04      0.07     26129
+
+    accuracy                           0.91    300000
+   macro avg       0.63      0.52      0.51    300000
+weighted avg       0.86      0.91      0.88    300000
+
+
+
+Model parameters:
+n_estimators = 50, contamination = 0.001, random_state = 42, max_features = 1, bootstrap = True
+--- Optimized Model Results ---
+Classification Report:
+              precision    recall  f1-score   support
+
+         0.0       0.58      0.01      0.02    273886
+         1.0       0.50      0.99      0.67    273673
+
+    accuracy                           0.50    547559
+   macro avg       0.54      0.50      0.34    547559
+weighted avg       0.54      0.50      0.34    547559
+
+
+
+Model parameters:
+n_estimators = 50, contamination = 0.001, random_state = 42, max_features = 1, bootstrap = True
+--- Optimized Model Results ---
+Classification Report:
+              precision    recall  f1-score   support
+
+         0.0       0.90      0.07      0.13    273580
+         1.0       0.35      0.98      0.51    137089
+
+    accuracy                           0.37    410669
+   macro avg       0.62      0.53      0.32    410669
+weighted avg       0.71      0.37      0.25    410669
+
+
+
+Model parameters:
+n_estimators = 200, contamination = 0.001, random_state = 42, max_features = 5, bootstrap = True
+--- Optimized Model Results ---
+Classification Report:
+              precision    recall  f1-score   support
+
+         0.0       0.83      0.10      0.17     26231
+         1.0       0.52      0.98      0.68     26211
+
+    accuracy                           0.54     52442
+   macro avg       0.68      0.54      0.43     52442
+weighted avg       0.68      0.54      0.43     52442
+
+
+
+Model parameters:
+n_estimators = 100, contamination = 0.005, random_state = 42, max_features = 2, bootstrap = False
+--- Initial Model Results ---
+Classification Report:
+              precision    recall  f1-score   support
+
+         0.0       0.50      0.99      0.67     26231
+         1.0       0.57      0.01      0.02     26211
+
+    accuracy                           0.50     52442
+   macro avg       0.53      0.50      0.34     52442
+weighted avg       0.53      0.50      0.34     52442
+
+
+
+Model parameters:
+n_estimators = 200, contamination = 0.001, random_state = 42, max_features = 5, bootstrap = True
+--- Optimized Model Results ---
+Classification Report:
+              precision    recall  f1-score   support
+
+         0.0       0.83      0.10      0.17     26231
+         1.0       0.52      0.98      0.68     26211
+
+    accuracy                           0.54     52442
+   macro avg       0.68      0.54      0.43     52442
+weighted avg       0.68      0.54      0.43     52442
+
+
+
